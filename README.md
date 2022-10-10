@@ -8,3 +8,5 @@ This is an application demonstrating the work of a review classifier. The classi
 2) The sentiment_classifier.py contains a class with the pickled classifier. It is necessary for the work of a Flask application which is a user interface for sentiment analysis of reviews.
 
 3) The file Sentiment_Analysis_Interface.ipynb contains an iPython Notebook for a Flask App. 
+
+4) The file index.html contains the form which will be rendered with the Flask App. THE FILE SHOULD BE PLACED IN THE templates/ folder!
